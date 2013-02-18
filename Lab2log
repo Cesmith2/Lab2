@@ -1,0 +1,35 @@
+commit a4cae726464a7a845d0a6776cadbc8407c6aea2c
+Author: Charles Smith <moreject@dijkstra.cs.longwood.edu>
+Date:   Mon Feb 18 01:44:53 2013 -0500
+
+    Parsed Lab2.cpp
+
+commit 2c302e9758ff5ba23a641c680af2afc94959d124
+Author: Charles Smith <moreject@dijkstra.cs.longwood.edu>
+Date:   Mon Feb 18 01:02:35 2013 -0500
+
+    Script for Lab2.txt works (+mapping)
+
+commit 76aaa47a07d63fcde238f5608ccd0ccf23cdaf39
+Author: Charles Smith <moreject@dijkstra.cs.longwood.edu>
+Date:   Mon Feb 18 00:12:26 2013 -0500
+
+    InsertText function works!
+
+commit dbfff0f682e23ad54dc4b3938f93db0bc34c7dc8
+Author: Charles Smith <moreject@dijkstra.cs.longwood.edu>
+Date:   Wed Feb 13 15:44:50 2013 -0500
+
+    Edited script some more and added a reference
+
+commit b476ca5a15c517f8ff8c1dd2a50cade29771ca4f
+Author: Charles Smith <moreject@dijkstra.cs.longwood.edu>
+Date:   Mon Feb 11 11:51:00 2013 -0500
+
+    Add the vim script and readme files
+
+commit d5d7c306a0e15ce4b471bc8033ac95f868f33031
+Author: Charles Smith <moreject@dijkstra.cs.longwood.edu>
+Date:   Mon Feb 11 11:26:02 2013 -0500
+
+    Added the cpp and txt files
